@@ -126,7 +126,7 @@ trajectory-spatial-matcher/
 └── README.md
 👨‍💻 作者 (Author)
 
-[Your Name] - Senior Big Data / System Architecture Engineer
+[Hu Yubin] - Senior Big Data / System Architecture Engineer
 
 欢迎探讨分布式系统架构设计、JVM 底层调优与海量数据并发处理机制！
 
